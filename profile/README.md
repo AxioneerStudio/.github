@@ -1,23 +1,26 @@
-# Bienvenue chez Laxe4k 👋
+# Bienvenue chez Axioneer Studio 👋
 
-**Laxe4k** est une organisation dédiée à la création de projets tech uniques et sur mesure. Notre objectif : repousser les limites du possible avec passion, inventivité et rigueur.
+**Axioneer Studio** est la branche développement et technique du groupe **Axioneer**.  
+Nous créons des projets tech sur mesure avec une approche orientée qualité, innovation et pragmatisme.
 
-💡 **Notre vision**
-Créer des outils innovants, utiles et fun, que ce soit pour le gaming, l’automatisation, la gestion de communauté ou bien plus encore.
+💡 **Notre vision**  
+Concevoir des outils innovants, utiles et durables, que ce soit pour le gaming, l’automatisation, la gestion de communautés, les plateformes ou des projets plus expérimentaux.
 
 🤝 **Pourquoi nous rejoindre ?**
 - Participer à des projets concrets, vivants et variés
-- Contribuer dans un environnement collaboratif et bienveillant
-- Évoluer librement, quelle que soit la technologie utilisée
+- Évoluer dans un environnement collaboratif, sain et bienveillant
+- Avoir la liberté de choisir les technologies les plus adaptées à chaque projet
 
 📦 **Nos projets incluent :**
-- Des bots Discord & Twitch sur-mesure
-- Des plugins Minecraft full personnalisés
-- Des outils internes pour automatiser et gérer notre infra
-- Des projets web, systèmes ou plus expérimentaux
+- Des bots Discord & Twitch sur mesure
+- Des plugins Minecraft entièrement personnalisés
+- Des outils internes pour automatiser et gérer notre infrastructure
+- Des projets web, systèmes et expérimentaux
 
-🧪 **Technologies libres & ouvertes**
-On choisit les outils en fonction des besoins, pas l’inverse. Tout langage ou techno pertinente peut être utilisée ici.
+🧪 **Technologies libres & ouvertes**  
+Chez Axioneer Studio, nous choisissons les outils en fonction des besoins, pas l’inverse.  
+Tout langage ou technologie pertinente peut être utilisé.
 
-🔐 **Recrutements sur invitation**
-Si tu lis ça et que tu veux faire partie de l’aventure, reste à l'écoute ou contacte-nous 😉
+🔐 **Recrutement sur invitation**  
+Axioneer Studio fonctionne sur la confiance et la qualité.  
+Si tu partages notre vision et que tu veux faire partie de l’aventure, n’hésite pas à nous contacter 😉
